@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # demo1
 
 > A Vue.js project
@@ -20,6 +19,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# myselfEvent-
->>>>>>> 3b3051a7333cefeb6cad3233d8e762a0f25aa6cb
